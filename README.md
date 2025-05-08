@@ -1,3 +1,4 @@
+## Type Inference 
 Type Inference, When you declare a variable without telling the variable type, It will automatically guess the data type by the variable's assigned value.
 
 
